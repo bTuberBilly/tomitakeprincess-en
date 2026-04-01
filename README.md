@@ -57,3 +57,40 @@ https://tgtime.shop/
 ### Cabbage Plush
     Made the Ciel plush used in the Secret Staff Room.
 https://www.instagram.com/cabbage.plush
+
+# Walkthrough
+
+This game is extremely simple to figure out without a guide, but I\'ll have three spoiler sections below in case anyone needs help:
+
+<details>
+  <summary>Route hints</summary>
+  All of the routes play exactly the same. You need to meet 3 criteria.
+
+  1) Pick the Tomitake you'd like to get an ending for on the My Tomitake screen
+  2) On the map selection screen, ONLY pick that same Tomitake every time until the game is over
+  3) Never fail a decision or minigame
+
+  If you're going for a true 100% playthrough, every single minigame and decision has an alternate scene that plays when you fail. So save, fail, then do it again but successfully.
+
+  Lastly, there is a "Bad" ending in which you romance no one. Simply ignore the Tomitake you pick or fail their minigames. It's that simple.
+
+  Oh and it's not really tied to the routes or anything, but you can unlock progressively harder versions of the minigames in the Extras menu. Can YOU beat L5 on all of them?
+</details>
+
+----
+
+<details>
+  <summary>Spoiler zone</summary>
+  
+  Once you have seen all 13 endings (Bad + all Tomitakes), a hidden Tomitake will start appearing on the map screen.
+
+  His route works exactly the same, except you can't pick him on the "My Tomitake" screen. So pick anyone you'd like there.
+</details>
+
+----
+
+<details>
+    <summary>Mega super giga spoiler zone</summary>
+    
+    Rumor has it that ultra perverts can unlock a secret scene somewhere in the Extras menu...
+</details>
